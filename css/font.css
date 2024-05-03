@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "OpenSans-Bold";
+    src: url(../font/open_sans/OpenSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: "OpenSans-Light";
+    src: url(../font/open_sans/OpenSans-Light.ttf);
+}
+
+@font-face {
+    font-family: "OpenSans-Medium";
+    src: url(../font/open_sans/OpenSans-Medium.ttf);
+}
+
+@font-face {
+    font-family: "OpenSans-Regular";
+    src: url(../font/open_sans/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: "OpenSans-SemiBold";
+    src: url(../font/open_sans/OpenSans-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: "BeVietnamPro-Black";
+    src: url(../font/namu/BeVietnamPro-Black.ttf);
+}
+
+@font-face {
+    font-family: 'NAMU-1990';
+    src: url(../font/namu/NAMU-1990.ttf);
+}
